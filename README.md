@@ -28,6 +28,6 @@ If anyone would like to contribute more information to this repo we welcome push
 
 ## Licensing
 
-This repo is licensed under the MIT standard. It comes without any warranty and can be used as is. We however welcome any acknowledgment.
+This repo is licensed under the Apache 2.0 standard. It comes without any warranty and can be used as is. We however welcome any acknowledgment.
 
 The external links and information provided from external sources are subject to their own licensing and copyright standards. Please verify the same before using any material contained therein.
