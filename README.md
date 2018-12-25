@@ -16,6 +16,8 @@ The files in this repo are organized as follows:
 
 This is a collection of useful websites and links that can be used to find more information about expressions and plugins.
 
+1. [Adobe expression documentation](https://helpx.adobe.com/in/after-effects/using/expression-language-reference.html)
+
 
 
 ## Pull Requests
